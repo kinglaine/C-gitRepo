@@ -1,6 +1,6 @@
 // Copyright 2022 Woodley Gelin
 
-#include <iostream> //preprocessor directive. iostream is the input output class in C++
+#include <iostream>  // preprocessor directive. iostream is the input output class in C++
 
 // main entry point
 
