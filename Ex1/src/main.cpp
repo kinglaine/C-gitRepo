@@ -1,7 +1,6 @@
-//Copyright 2022 Woodley Gelin
+// Copyright 2022 Woodley Gelin
 
 #include <iostream> 
-
 // main entry point
 
 int main() {
