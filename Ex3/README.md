@@ -47,3 +47,17 @@ Yes the program is legal and the following will be printed:
 # Exercise 2.17
 The following code will not print because of a compilation error.
 
+# Exercise 2.27
+The legal initializations are:
+int *const p2 = &i2;       
+const int i = -1, &r = 0;   
+const int *const p3 = &i2; 
+const int *p1 = &i2;
+const int i2 = i, &r = i;
+
+# Exercise 2.28
+All of the following are illegal
+int i, *const cp;       
+int *p1, *const p2;     
+const int ic, &r = ic; 
+const int *const p3; 
