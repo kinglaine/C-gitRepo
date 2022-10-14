@@ -1,0 +1,8 @@
+//fval is converted to boolean
+a) if (fval)
+
+//fval + ival areconverted to double
+(b) dval = fval + ival; 
+
+//cval to int then oval is converted to a double
+(c) dval + ival * cval;
