@@ -32,5 +32,5 @@ Please ensure that when you submit you have the following:
 ####	•	Prepare a makefile that will be used with the GitHub actions workflow
 ####	•	Prepare GitHub actions workflow to show execution of your program  (if you cannot get it working, then record script log of your session)
 ####	•	Do not include executables with your submission (a.out, etc)
-####### Submission Form https://forms.gle/8jWpshD4W37eT5Ab6 
+#### Submission Form https://forms.gle/8jWpshD4W37eT5Ab6 
 
