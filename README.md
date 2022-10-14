@@ -1,19 +1,19 @@
 # CISC 3142 Fall 2022 Class Exercise 5
 Prepare a markdown file for the selected textbook exercises and source files for each of the practice problems – each with its own main method. At the completion of this lab exercise, you should have a total of 3 programs.
 **During class time, please complete the exercises from the textbook and prepare pseudocode (that includes variable definitions) for the practice problems. If you have additional time, please prepare the source files. Show me your work before you leave. 
-Exercises from the textbook:
-## 4.5: Determine the result of the following expressions.
-#### (a) -30 * 3 + 21 / 5 
-#### (b) -30 + 3 * 21 / 5
-#### (c) 30 / 3 * 21 % 5 
-#### (d) -30 / 3 * 21 % 4
-## 4.17: Explain the difference between prefix and postfix increment.
-## 4.34: Given the variable definitions in this section, explain what conversions take place in the following expressions:
-#### (a) if (fval) 
-#### (b) dval = fval + ival; 
-#### (c) dval + ival * cval;
+### Exercises from the textbook:
+### 4.5: Determine the result of the following expressions.
+##### (a) -30 * 3 + 21 / 5 
+##### (b) -30 + 3 * 21 / 5
+##### (c) 30 / 3 * 21 % 5 
+##### (d) -30 / 3 * 21 % 4
+### 4.17: Explain the difference between prefix and postfix increment.
+### 4.34: Given the variable definitions in this section, explain what conversions take place in the following expressions:
+##### (a) if (fval) 
+##### (b) dval = fval + ival; 
+##### (c) dval + ival * cval;
 
-## Practice Problems
+### Practice Problems
 #### 1. Sum of Digits
 Calculate the sum of digits of a number. The program prompts the user to enter the number. For example: Enter number: 7865 The output should be  7+ 8 + 6 + 5 = 26
 Sample output of the program is shown below:
