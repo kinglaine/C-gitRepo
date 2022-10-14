@@ -1,0 +1,11 @@
+The prefix increment returns a value after it has been incremented.
+Example: int a = 1; then ..
+Cout << ++a -> 2
+Cout << a --> 2
+Here the value is incremented first the it is returned, hence ++a is faster then a++;
+
+The postfix increment returns a value before it has been incremented.
+Example: int a = 1; then ..
+Cout << a++ --> 1
+Count << a --> 2
+Here the value Is return first then it is incremented.
