@@ -1,0 +1,3 @@
+## Pseudoscope for linear regression.
+
+
