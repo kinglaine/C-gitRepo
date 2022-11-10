@@ -1,0 +1,4 @@
+outputs:
+col 50 Row 50
+col 50 Row 70
+col 25 Row 50
